@@ -1,6 +1,6 @@
 variable "name" {
     type = string
-    default = "vnet-resource5"
+    default = "vnet-resource6"
 }
 
 variable "location" {
